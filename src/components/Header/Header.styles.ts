@@ -5,5 +5,5 @@ export const headerStyle = css({
   fontWeight: 300,
   textAlign: "center",
   color: "lightgray",
-  marginTop: "-42px",
+  width: "100%",
 });
